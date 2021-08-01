@@ -12,7 +12,7 @@ Create empty folder and run:
 
 ## Install 
 ```
-go get github.com/aliicoban/golangboilerplate
+git clone https://github.com/aliicoban/golangboilerplate.git
 ```
 
 
